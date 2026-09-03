@@ -1,9 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Importância da Preservação da Água</title>
 
-A Importância da Preservação da Água
-A água é um dos recursos naturais mais importantes para a vida no planeta. Todos os seres vivos precisam dela para sobreviver, e ela é essencial para a alimentação, a higiene, a agricultura e diversas atividades do nosso dia a dia.
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #eaf7ff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
 
-Porém, a água potável não é um recurso infinito. A poluição dos rios, o desperdício e o uso inadequado da água podem causar problemas para as pessoas, os animais e o meio ambiente. Por isso, é muito importante preservar e utilizar a água de maneira consciente.
+        header {
+            background-color: #0077b6;
+            color: white;
+            text-align: center;
+            padding: 30px;
+        }
 
-Cada pessoa pode contribuir para essa preservação com atitudes simples, como fechar a torneira enquanto escova os dentes, tomar banhos mais rápidos, consertar vazamentos e evitar jogar lixo nos rios e lagos. Além disso, é importante cuidar das florestas e das áreas próximas aos rios, pois elas ajudam a proteger as fontes de água.
+        main {
+            max-width: 900px;
+            margin: 30px auto;
+            background-color: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
 
-Preservar a água é cuidar da vida e garantir que as futuras gerações também tenham acesso a esse recurso tão essencial. Portanto,
+        h2 {
+            color: #0077b6;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.7;
+            text-align: justify;
+        }
+
+        .dica {
+            background-color: #d9f0ff;
+            border-left: 5px solid #0077b6;
+            padding: 15px;
+            margin-top: 25px;
+        }
+
+        footer {
+            text-align: center;
+            background-color: #023e8a;
+            color: white;
+            padding: 15px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>💧 A Importância da Preservação da Água</h1>
+        <p>Preservar a água é cuidar da vida!</p>
+    </header>
+
+    <main>
+        <h2>Por que a água é importante?</h2>
+
+        <p>
+            A água é um dos recursos naturais mais importantes para a vida
+            no planeta. Todos os seres vivos precisam dela para sobreviver,
+            e ela é essencial para a alimentação, a higiene, a agricultura
+            e diversas atividades do nosso dia a dia.
+        </p>
+
+        <h2>Por que devemos preservar?</h2>
+
+        <p>
+            A água potável não é um recurso infinito. A poluição dos rios,
+            o desperdício e o uso inadequado da água podem causar problemas
+            para as pessoas, os animais e o meio ambiente. Por isso, é muito
+            importante preservar e utilizar a água de maneira consciente.
+        </p>
+
+        <h2>Como podemos ajudar?</h2>
+
+        <p>
+            Cada pessoa pode contribuir para a preservação da água com atitudes
+            simples, como fechar a torneira enquanto escova os dentes, tomar
+            banhos mais rápidos, consertar vazamentos e evitar jogar lixo
+            nos rios e lagos.
+        </p>
+
+        <div class="dica">
+            <strong>🌱 Dica:</strong>
+            Pequenas atitudes fazem uma grande diferença. Evite o desperdício
+            e ajude a proteger nossas fontes de água.
+        </div>
+
+        <h2>Conclusão</h2>
+
+        <p>
+            Preservar a água é cuidar da vida e garantir que as futuras
+            gerações também tenham acesso a esse recurso tão essencial.
+            Portanto, todos nós temos a responsabilidade de evitar o
+            desperdício e proteger a água e o meio ambiente.
+        </p>
+    </main>
+
+    <footer>
+        <p>💙 Cuide da água. Cuide do planeta.</p>
+    </footer>
+
+</body>
+</html>
